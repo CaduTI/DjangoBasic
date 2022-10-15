@@ -1,0 +1,6 @@
+python -m venv venv
+
+& c:/Djangobasic/venv/Scripts/Activate.ps1
+
+
+django-admin startproject basicproject . // cria o repo pro projeto
